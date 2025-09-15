@@ -1,1 +1,1 @@
-Это файл-заглушка для теста работы quartz на github pages
+Это файл-заглушка для теста работы quartz на github pages 
