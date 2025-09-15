@@ -1,7 +1,6 @@
 *(info from archwiki and gentoo wiki)*
 *by tasory*
 # 0. Introduction
-
 Fonts are stored in the following directories:
 ```
 ~/.fonts 
