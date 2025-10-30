@@ -1,3 +1,7 @@
-There's nothing here yet, but there will be soon!
+Welcome to my notes site! 
 
-Тут пока ничего нет, но в скором времени будет!
+There is one guide right now, but i'm working on it!
+
+**Guides:**
+
+[[Fonts]]
